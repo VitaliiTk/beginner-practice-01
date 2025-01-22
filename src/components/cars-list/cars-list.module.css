@@ -1,0 +1,17 @@
+.title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.car-list {
+  padding: 0;
+}
+
+.empty-warning {
+  opacity: 0.5;
+  padding: 20px;
+  background-color: #292d3e;
+  text-align: center;
+  border-radius: 8px;
+  color: #f7c600;
+}
