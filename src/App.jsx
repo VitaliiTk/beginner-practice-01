@@ -32,8 +32,6 @@ export default function App() {
       image
     }
 
-    console.log(newCar)
-
     // Add new car to the list
     setCars(prev => [...prev, newCar])
 
